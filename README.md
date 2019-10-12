@@ -27,6 +27,8 @@ Games are loaded from your iPhone's documents directory. In iTunes, drop `.gb` o
 
 UPDATE: Giovanni can open ROMs natively, allowing you to bypass iTunes entirely. [More info](https://github.com/gabrieloc/GIOVANNI/pull/9).
 
+Games can be found at [this here](https://www.downloadroms.io/roms/gameboy-advance/)
+
 Emulator saving and loading is automatic, and happens whenever the app gets closed/inactivated or opened/activated. In-game saving and loading is completely separate. If for some reason the emulator save gets corrupted, force-touching the screen will bring up the option to reset the emulator, allowing you to resume from your in-game save.
 
 The control scheme is as follows:
